@@ -1,3 +1,6 @@
+#keys
+hs-key.pem
+
 lib-cov
 *.seed
 *.log
